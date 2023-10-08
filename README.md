@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Batuhan Karaman 👋</h1>
 <table>
   <tr>
-    <td valign="top" colspan="2">
+    <td valign="top" colspan="2" width="65%">
       <ul>
         <li>
           🎓 I graduated from Akdeniz University Computer Programming
@@ -20,6 +20,7 @@
     </td>
     <td align="center">
       <img src="https://quotes-github-readme.vercel.app/api?theme=dark" />
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=21xtpq4hqiqi25gx5i7w7ao4q&theme=novatorem"  />
     </td>
   </tr>
   <tr></tr>
@@ -77,8 +78,8 @@
   <tr>
     <td colspan="3">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batukaraman&theme=github_dark" />
-      <img width="49.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batukaraman&theme=github_dark&exclude=CSS" />
-      <img width="49.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=batukaraman&theme=github_dark" />
+      <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batukaraman&theme=github_dark&exclude=CSS" />
+      <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=batukaraman&theme=github_dark" />
     </td>
   </tr>
 </table>
