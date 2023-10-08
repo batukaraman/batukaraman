@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Batuhan Karaman 👋</h1>
-<table width="100%">
+<table>
   <tr>
-    <td valign="top">
+    <td valign="top" colspan="2">
       <ul>
         <li>
           🎓 I graduated from Akdeniz University Computer Programming
@@ -18,12 +18,13 @@
           src="https://user-images.githubusercontent.com/63793311/224949784-8985216a-7c7f-484b-be2a-2e05d2ee9e04.png"
       /></a>
     </td>
-    <td align="center" >
+    <td align="center">
       <img src="https://quotes-github-readme.vercel.app/api?theme=dark" />
     </td>
   </tr>
+  <tr></tr>
   <tr>
-    <td>
+    <td  valign="top"  colspan="2">
       <h2>🏆 Languages</h2>
       <img
         alt="JavaScript"
@@ -31,13 +32,53 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
       />
     </td>
-    <td>
-      <h2>🚀 Libraries & Frameworks</h2>
+    <td valign="top" rowspan="3">
+      <h2>🏅 Other</h2>
+      <ul>
+        <li>Object Oriented Programming</li>
+        <li>Web Services</li>
+        <li>Network Fundamentals</li>
+        <li>Unit Testing</li>
+        <li>Architectural Patterns</li>
+        <li>SEO</li>
+        <li>Digital Marketing Fundamentals</li>
+        <li>Cryptology</li>
+        <li>Database Normalization</li>
+        <li>UI/UX</li>
+      </ul>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td valign="top">
+      <h2>🚀 Libraries</h2>
       <img
         alt="NodeJs"
         width="32px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
       />
+    </td>
+    <td valign="top">
+      <h2>🧰 Tools</h2>
+      <img
+        alt="NodeJs"
+        width="32px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+      />
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=batukaraman&theme=darkhub&margin-w=8&margin-h=8&row=1" />
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td colspan="3">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=batukaraman&theme=github_dark" />
+      <img width="49.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batukaraman&theme=github_dark&exclude=CSS" />
+      <img width="49.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=batukaraman&theme=github_dark" />
     </td>
   </tr>
 </table>
