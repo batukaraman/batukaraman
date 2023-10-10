@@ -10,12 +10,18 @@
         <li>🔭 I’m currently working on React.</li>
         <li>📌 I’m currently learning Typescript</li>
       </ul>
-      <h3>📫 Connect with me</h3>
-      <a href="https://www.linkedin.com/in/batukaraman/"
+      <hr />
+      <a href="mailto:batuhankaraman0@hotmail.com"
         ><img
-          alt="batukaraman | LinkedIn"
-          width="32px"
-          src="https://user-images.githubusercontent.com/63793311/224949784-8985216a-7c7f-484b-be2a-2e05d2ee9e04.png"
+          alt="Contact Me"
+          height="32px"
+          src="https://raw.githubusercontent.com/batukaraman/batukaraman/e99e0625031da2f5b5b2b436d5a7fb8809779d61/assets/contact-me.svg"
+      /></a>
+      <a href="https://raw.githubusercontent.com/batukaraman/batukaraman/01087db6cbd853e5eb6302f016e5f3827ff248d0/Resume-ENG.pdf"
+        ><img
+          alt="Resume"
+          height="32px"
+          src="https://raw.githubusercontent.com/batukaraman/batukaraman/e99e0625031da2f5b5b2b436d5a7fb8809779d61/assets/resume.svg"
       /></a>
     </td>
     <td align="center">
