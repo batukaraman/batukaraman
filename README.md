@@ -1,4 +1,5 @@
-<h1>Hi there, I'm Batuhan Karaman 👋</h1>
+<h1 align="center"><img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Batuhan+!;+I'm+Front-end+Developer;" /></h1>
+
 <table>
   <tr>
     <td valign="top" colspan="2" width="65%">
