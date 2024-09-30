@@ -18,7 +18,7 @@
           height="32px"
           src="https://raw.githubusercontent.com/batukaraman/batukaraman/e99e0625031da2f5b5b2b436d5a7fb8809779d61/assets/contact-me.svg"
       /></a>
-      <a href="https://raw.githubusercontent.com/batukaraman/batukaraman/01087db6cbd853e5eb6302f016e5f3827ff248d0/Resume-ENG.pdf"
+      <a href="https://github.com/user-attachments/files/17190968/Resume.ENG.Batuhan.Karaman.pdf"
         ><img
           alt="Resume"
           height="32px"
