@@ -4,12 +4,7 @@
   <tr>
     <td valign="top" colspan="2" width="65%">
       <ul>
-        <li>
-          🎓 I graduated from Akdeniz University Computer Programming
-          Department.
-        </li>
-        <li>🔭 I’m currently working on React.</li>
-        <li>📌 I’m currently learning Typescript</li>
+        <li>🔭 I’m currently working on React/React Native and Typescript.</li>
       </ul>
       <hr />
       <a href="mailto:batuhankaraman0@hotmail.com"
