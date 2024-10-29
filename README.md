@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td valign="top" colspan="2" width="65%">
+    <td valign="top" colspan="3" width="65%">
       <ul>
         <li>🔭 I’m currently working on React/React Native and Typescript.</li>
       </ul>
@@ -19,10 +19,6 @@
           height="32px"
           src="https://raw.githubusercontent.com/batukaraman/batukaraman/e99e0625031da2f5b5b2b436d5a7fb8809779d61/assets/resume.svg"
       /></a>
-    </td>
-    <td align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?theme=dark" />
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=21xtpq4hqiqi25gx5i7w7ao4q&theme=novatorem"  />
     </td>
   </tr>
   <tr></tr>
